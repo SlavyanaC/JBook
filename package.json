@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "cli": "file:packages\\cli",
-    "jbook": "file:packages\\local-client",
-    "local-api": "file:packages\\local-api"
+    "local-api": "file:packages\\local-api",
+    "local-client": "file:packages\\local-client"
   }
 }
